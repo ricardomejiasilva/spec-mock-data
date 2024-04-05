@@ -1,54 +1,78 @@
 [
   {
-    "categoryId": 14911,
-    "productFilterId": 693,
-    "productFilterName": "Backsplash",
+    "categoryId": 13415,
+    "productFilterId": 520,
+    "productFilterName": "1/3 Size Pan Capacity",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 58,
-    "productFilterName": "Backsplash Height",
+    "categoryId": 13415,
+    "productFilterId": 98,
+    "productFilterName": "1/6 Size Pan Capacity",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 1702,
-    "productFilterName": "Basket Drain Size",
+    "categoryId": 13415,
+    "productFilterId": 1775,
+    "productFilterName": "1/9 Size Pan Capacity",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 428,
-    "productFilterName": "Bowl Front to Back",
+    "categoryId": 13415,
+    "productFilterId": 700,
+    "productFilterName": "Access Type",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 80,
-    "productFilterName": "Bowl Left to Right",
+    "categoryId": 13415,
+    "productFilterId": 2682,
+    "productFilterName": "BTU (LBP)",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 765,
-    "productFilterName": "Cabinet Type",
+    "categoryId": 13415,
+    "productFilterId": 1209,
+    "productFilterName": "Cabinet Height",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
+    "categoryId": 13415,
+    "productFilterId": 1207,
+    "productFilterName": "Cabinet Width",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 369,
+    "productFilterName": "Capacity",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 541,
+    "productFilterName": "Casters",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
     "productFilterId": 67,
     "productFilterName": "Color",
     "customSpecificationGroupId": 0,
@@ -56,47 +80,103 @@
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 1703,
-    "productFilterName": "Drain Outlet Size",
+    "categoryId": 13415,
+    "productFilterId": 417,
+    "productFilterName": "Compressor Location",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 422,
-    "productFilterName": "Drainboard Length",
+    "categoryId": 13415,
+    "productFilterId": 1751,
+    "productFilterName": "Compressor Style",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 2928,
-    "productFilterName": "Drainboard Location",
+    "categoryId": 13415,
+    "productFilterId": 239,
+    "productFilterName": "Construction",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 133,
-    "productFilterName": "Faucet Centers",
+    "categoryId": 13415,
+    "productFilterId": 1085,
+    "productFilterName": "Cutting Board Depth",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 1664,
-    "productFilterName": "Faucet Height",
+    "categoryId": 13415,
+    "productFilterId": 1086,
+    "productFilterName": "Cutting Board Height",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
+    "categoryId": 13415,
+    "productFilterId": 1909,
+    "productFilterName": "Cutting Board Length",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 2349,
+    "productFilterName": "Cutting Board Thickness",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 1084,
+    "productFilterName": "Cutting Board Width",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 717,
+    "productFilterName": "Display Case Type",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 277,
+    "productFilterName": "Door Style",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 404,
+    "productFilterName": "Door Type",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 715,
+    "productFilterName": "Exterior Material",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
     "productFilterId": 134,
     "productFilterName": "Features",
     "customSpecificationGroupId": 0,
@@ -104,31 +184,7 @@
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 639,
-    "productFilterName": "Flow Rate",
-    "customSpecificationGroupId": 0,
-    "customSpecificationGroupName": null,
-    "sortOrder": 0
-  },
-  {
-    "categoryId": 14911,
-    "productFilterId": 168,
-    "productFilterName": "Gauge",
-    "customSpecificationGroupId": 0,
-    "customSpecificationGroupName": null,
-    "sortOrder": 0
-  },
-  {
-    "categoryId": 14911,
-    "productFilterId": 272,
-    "productFilterName": "Handle Type",
-    "customSpecificationGroupId": 0,
-    "customSpecificationGroupName": null,
-    "sortOrder": 0
-  },
-  {
-    "categoryId": 14911,
+    "categoryId": 13415,
     "productFilterId": 88,
     "productFilterName": "Height",
     "customSpecificationGroupId": 0,
@@ -136,7 +192,71 @@
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
+    "categoryId": 13415,
+    "productFilterId": 1140,
+    "productFilterName": "Height (open)",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 1705,
+    "productFilterName": "Height (top of open lid)",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 2963,
+    "productFilterName": "Height with Casters",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 3645,
+    "productFilterName": "Height with Lid Open",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 648,
+    "productFilterName": "Hertz",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 754,
+    "productFilterName": "Hinge Location",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 64,
+    "productFilterName": "Horsepower",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 817,
+    "productFilterName": "Individual Shelf Capacity",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
     "productFilterId": 887,
     "productFilterName": "Installation Type",
     "customSpecificationGroupId": 0,
@@ -144,15 +264,47 @@
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 703,
-    "productFilterName": "Leg Construction",
+    "categoryId": 13415,
+    "productFilterId": 812,
+    "productFilterName": "Interior Depth",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
+    "categoryId": 13415,
+    "productFilterId": 804,
+    "productFilterName": "Interior Height",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 714,
+    "productFilterName": "Interior Material",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 803,
+    "productFilterName": "Interior Width",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 3933,
+    "productFilterName": "Left Door Opening Width",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
     "productFilterId": 318,
     "productFilterName": "Length",
     "customSpecificationGroupId": 0,
@@ -160,87 +312,159 @@
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 326,
-    "productFilterName": "Material",
+    "categoryId": 13415,
+    "productFilterId": 3934,
+    "productFilterName": "Middle Door Opening Width",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 383,
-    "productFilterName": "Mounting Style",
+    "categoryId": 13415,
+    "productFilterId": 3149,
+    "productFilterName": "Net Volume",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 2395,
-    "productFilterName": "Mounting Type",
+    "categoryId": 13415,
+    "productFilterId": 2051,
+    "productFilterName": "Nominal Width",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 154,
-    "productFilterName": "Number of Compartments",
+    "categoryId": 13415,
+    "productFilterId": 1493,
+    "productFilterName": "Number of 1/6 Size Pans Included",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 161,
-    "productFilterName": "Number of Drainboards",
+    "categoryId": 13415,
+    "productFilterId": 863,
+    "productFilterName": "Number of Dividers",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 2668,
-    "productFilterName": "Spout Clearance",
+    "categoryId": 13415,
+    "productFilterId": 374,
+    "productFilterName": "Number of Doors",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 638,
-    "productFilterName": "Spout Height",
+    "categoryId": 13415,
+    "productFilterId": 513,
+    "productFilterName": "Number of Drawers",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 527,
-    "productFilterName": "Spout Length",
+    "categoryId": 13415,
+    "productFilterId": 165,
+    "productFilterName": "Number of Shelves",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 230,
-    "productFilterName": "Spout Type",
+    "categoryId": 13415,
+    "productFilterId": 1184,
+    "productFilterName": "Overall Height",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 181,
-    "productFilterName": "Stainless Steel Type",
+    "categoryId": 13415,
+    "productFilterId": 666,
+    "productFilterName": "Phase",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
+    "categoryId": 13415,
+    "productFilterId": 1499,
+    "productFilterName": "Plug Type",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 2140,
+    "productFilterName": "Power Cord Length",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 2245,
+    "productFilterName": "Product Type",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 4059,
+    "productFilterName": "Refrigerant Capacity",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 712,
+    "productFilterName": "Refrigerant Type",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 3,
+    "productFilterName": "Refrigeration Type",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 3935,
+    "productFilterName": "Right Door Opening Width",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 351,
+    "productFilterName": "Sections",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 3420,
+    "productFilterName": "Shipping Weight",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
     "productFilterId": 244,
     "productFilterName": "Style",
     "customSpecificationGroupId": 0,
@@ -248,15 +472,39 @@
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 590,
-    "productFilterName": "Table Style",
+    "categoryId": 13415,
+    "productFilterId": 667,
+    "productFilterName": "Temperature Range",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
+    "categoryId": 13415,
+    "productFilterId": 1816,
+    "productFilterName": "Top Capacity",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 56,
+    "productFilterName": "Top Type",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
+    "productFilterId": 950,
+    "productFilterName": "Total BTU",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
     "productFilterId": 447,
     "productFilterName": "Type",
     "customSpecificationGroupId": 0,
@@ -264,15 +512,23 @@
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
-    "productFilterId": 1746,
-    "productFilterName": "Water Inlet Size",
+    "categoryId": 13415,
+    "productFilterId": 524,
+    "productFilterName": "Voltage",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
+    "categoryId": 13415,
+    "productFilterId": 457,
+    "productFilterName": "Wattage",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 13415,
     "productFilterId": 2130,
     "productFilterName": "WebstaurantPlus",
     "customSpecificationGroupId": 0,
@@ -280,7 +536,7 @@
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
+    "categoryId": 13415,
     "productFilterId": 311,
     "productFilterName": "Width",
     "customSpecificationGroupId": 0,
@@ -288,17 +544,9 @@
     "sortOrder": 0
   },
   {
-    "categoryId": 14911,
+    "categoryId": 13415,
     "productFilterId": 1066,
     "productFilterName": "Work Surface Height",
-    "customSpecificationGroupId": 0,
-    "customSpecificationGroupName": null,
-    "sortOrder": 0
-  },
-  {
-    "categoryId": 14911,
-    "productFilterId": 3204,
-    "productFilterName": "Working Height",
     "customSpecificationGroupId": 0,
     "customSpecificationGroupName": null,
     "sortOrder": 0
