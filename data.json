@@ -1,0 +1,306 @@
+[
+  {
+    "categoryId": 14911,
+    "productFilterId": 693,
+    "productFilterName": "Backsplash",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 58,
+    "productFilterName": "Backsplash Height",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 1702,
+    "productFilterName": "Basket Drain Size",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 428,
+    "productFilterName": "Bowl Front to Back",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 80,
+    "productFilterName": "Bowl Left to Right",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 765,
+    "productFilterName": "Cabinet Type",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 67,
+    "productFilterName": "Color",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 1703,
+    "productFilterName": "Drain Outlet Size",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 422,
+    "productFilterName": "Drainboard Length",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 2928,
+    "productFilterName": "Drainboard Location",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 133,
+    "productFilterName": "Faucet Centers",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 1664,
+    "productFilterName": "Faucet Height",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 134,
+    "productFilterName": "Features",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 639,
+    "productFilterName": "Flow Rate",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 168,
+    "productFilterName": "Gauge",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 272,
+    "productFilterName": "Handle Type",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 88,
+    "productFilterName": "Height",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 887,
+    "productFilterName": "Installation Type",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 703,
+    "productFilterName": "Leg Construction",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 318,
+    "productFilterName": "Length",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 326,
+    "productFilterName": "Material",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 383,
+    "productFilterName": "Mounting Style",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 2395,
+    "productFilterName": "Mounting Type",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 154,
+    "productFilterName": "Number of Compartments",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 161,
+    "productFilterName": "Number of Drainboards",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 2668,
+    "productFilterName": "Spout Clearance",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 638,
+    "productFilterName": "Spout Height",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 527,
+    "productFilterName": "Spout Length",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 230,
+    "productFilterName": "Spout Type",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 181,
+    "productFilterName": "Stainless Steel Type",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 244,
+    "productFilterName": "Style",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 590,
+    "productFilterName": "Table Style",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 447,
+    "productFilterName": "Type",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 1746,
+    "productFilterName": "Water Inlet Size",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 2130,
+    "productFilterName": "WebstaurantPlus",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 311,
+    "productFilterName": "Width",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 1066,
+    "productFilterName": "Work Surface Height",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  },
+  {
+    "categoryId": 14911,
+    "productFilterId": 3204,
+    "productFilterName": "Working Height",
+    "customSpecificationGroupId": 0,
+    "customSpecificationGroupName": null,
+    "sortOrder": 0
+  }
+]
